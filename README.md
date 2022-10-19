@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java Spring Boot Framework**
 
-- 💬 Ask me about **Java,Android,Dart**
+- 💬 Ask me about **Java,Spring Boot,Android,Dart**
 
 - 📫 How to reach me **waseemvirk00@gmail.com**
 
