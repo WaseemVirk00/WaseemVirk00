@@ -3,17 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waseemvirk00&label=Profile%20views&color=0e75b6&style=flat" alt="waseemvirk00" /> </p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waseemvirk00" alt="waseemvirk00" /></a> </p>
 
 - 🔭 I’m currently working on **Car Rental System Java Spring Boot Project**
 
 - 🌱 I’m currently learning **Java Spring Boot Framework**
+
+- 💬 Ask me about **Java,Android,Dart**
+
+- 📫 How to reach me **waseemvirk00@gmail.com**
 
 - ⚡ Fun fact **I think I am not funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/waseem-virk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waseem-virk/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users//11992659/waseem-virk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/11992659/waseem-virk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
