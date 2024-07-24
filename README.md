@@ -8,6 +8,9 @@
   <a href="https://github.com/waseemvirk00" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40"/>
   </a>
+  <a href="https://waceem-portfolio.web.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" alt="Portfolio" height="30" width="40"/>
+  </a>
 </p>
 
 ---
